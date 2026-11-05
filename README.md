@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Products API — NestJS
 
 ## Prérequis
@@ -29,3 +30,6 @@ L'API démarre sur http://localhost:3000 et la documentation Swagger est disponi
 | DELETE | `/products/:id` | Supprimer un produit |
 
 Les données sont stockées temporairement en mémoire. Elles sont réinitialisées lorsque le serveur redémarre.
+=======
+# product
+>>>>>>> 3bc69046008df33a9fb88ef9b37c04da9d6a9b5e
